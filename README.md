@@ -1,6 +1,8 @@
 ## Oii eu sou Lucas Santos :)
 TESTE
 
+<!--
+MOSTRAR EMPRESAS EM QUE CONTRIBUI
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="img/memocash_logo.png"/>](https://www.spacex.com/)
 
 **Software Engineer** \
@@ -8,6 +10,7 @@ TESTE
 Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `SaltStack`,\
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
+-->
 
 <img align='center' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
 
