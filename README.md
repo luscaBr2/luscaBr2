@@ -9,7 +9,7 @@ TESTE
   </tr>
   <tr>
     <td align='center'>
-      <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
+      <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
     </td>
   </tr>
 </table>
