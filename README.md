@@ -19,6 +19,6 @@ TESTE
   <a href="https://wa.me/5512997422947?text=Oii%20Lucas%2C%20vi%20seu%20perfil%20no%20GitHub" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5512997422947?text=Oii%20Lucas%2C%20vi%20seu%20perfil%20no%20GitHub" alt="WhatsApp"/></a>
   
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="https://www.instagram.com/lusca_br2" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lusca_br2" alt="Instagram"/></a>
 </p>
