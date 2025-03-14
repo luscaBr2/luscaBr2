@@ -38,25 +38,14 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
    
 <p>Contact-me :)⤵️</p>
 
-<p align="left">
+<div>
+    <a href="https://www.linkedin.com/in/lucas-santos387/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:lucas.ifsp387@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://wa.me/5512997422947?text=Oii%20Lucas%2C%20vi%20seu%20perfil%20no%20GitHub"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+    <a href="https://www.instagram.com/lusca_br2"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+</div>
 
-   <a href="https://www.linkedin.com/in/lucas-santos387/">
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-   </a>
-   
-  <a href="mailto:lucas.ifsp387@gmail.com">
-     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  
-  <a href="https://wa.me/5512997422947?text=Oii%20Lucas%2C%20vi%20seu%20perfil%20no%20GitHub">
-     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
-  
-  <a href="https://www.instagram.com/lusca_br2">
-     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  
-</p>
+<br>
 
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
