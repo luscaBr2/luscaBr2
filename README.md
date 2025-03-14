@@ -10,9 +10,6 @@ Linguagens & Tecnologias: `Python`, `Django`, `C++`, `JavaScript`, `GoLang`, `Sa
 Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wikipedia.org/wiki/Marte_(planeta)>)
 <br/>
 -->
-
-<img align='left' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
-<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
    
 <p>Contact-me :)⤵️</p>
 
@@ -30,3 +27,6 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
   <a href="https://www.instagram.com/lusca_br2" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/lusca_br2" alt="Instagram"/></a>
 </p>
+
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
