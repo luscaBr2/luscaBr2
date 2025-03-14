@@ -34,11 +34,11 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 <p>Contact-me :)⤵️</p>
 
 <p align="left">
-   
+
    <a href="https://www.linkedin.com/in/lucas-santos387/">
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
-  
+   
   <a href="mailto:lucas.ifsp387@gmail.com">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -55,3 +55,4 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
+
