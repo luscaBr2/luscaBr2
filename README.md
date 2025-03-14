@@ -1,6 +1,7 @@
 ## Oii eu sou Lucas Santos :)
 TESTE
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="img/memocash_logo.png"/>](https://www.spacex.com/)
 
 **Software Engineer** \
 [**SpaceX**](https://www.spacex.com/) • Full-time \
