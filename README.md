@@ -6,7 +6,7 @@ TESTE
     <td align='center'>
         <img align='center' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
     </td>
-    <td>
+    <td row='2'>
       TESTEEE
     </td>
   </tr>
