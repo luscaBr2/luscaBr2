@@ -1,7 +1,5 @@
 ## Oii eu sou Lucas Santos :)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 <!--
 MOSTRAR EMPRESAS EM QUE CONTRIBUI
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="img/memocash_logo.png"/>](https://www.spacex.com/)
