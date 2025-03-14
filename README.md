@@ -1,8 +1,6 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
-
 ## Oii eu sou Lucas Santos :)
-TESTE
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <!--
 MOSTRAR EMPRESAS EM QUE CONTRIBUI
@@ -15,9 +13,8 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 <br/>
 -->
 
-<img src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
-
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
+<img align='left' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
+<img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
    
 <p>Contact-me :)⤵️</p>
 
