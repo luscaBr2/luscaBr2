@@ -49,7 +49,7 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 
 <img align='left' src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
 
-<br>
+<br><br>
 
 <img align='left' src='https://github-readme-stats.vercel.app/api/top-langs/?username=luscaBr2&layout=compact&theme=transparent'>
 
