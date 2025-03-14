@@ -1,7 +1,7 @@
 ## Oii eu sou Lucas Santos :)
 TESTE
 
-<table border='none'>
+<table border='0px'>
   <tr>
     <td>
         <img src='https://github-readme-stats.vercel.app/api?username=luscaBr2&show_icons=true&theme=transparent'>
