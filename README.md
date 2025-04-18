@@ -1,14 +1,21 @@
-## Hey! Nice to see you :)
+## Hey! Nice to see you <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Victory%20Hand.png" alt="Victory Hand" width="35" height="35" /> 
 
 
-## <img src="https://user-images.githubusercontent.com/74038190/212744289-c46f1717-bfc9-4724-8ef3-4b08e3583110.gif" width="25"> <b> About me</b>
+## About me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face%20with%20Sunglasses.png" alt="Smiling Face with Sunglasses" width="35" height="35" />
 
 <div>
    <p>Hi, my name is Lucas, I'm a full stack web programming student. I'm currently working as technical support at MemoCash Soluções and I'm studying Systems Analysis and Development at the Federal Institute of Education, Science and Technology of São Paulo.</p>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
+<p>Languages</p>
+<img src="https://skillicons.dev/icons?i=cpp,cs,php,html,css,js" />
+
+<p>Tools</p>
+<img src="https://skillicons.dev/icons?i=linux,windows,mysql,bootstrap,git,github,ps,vscode,visualstudio" />
+
+<!--
 <div>
    <p>Programming Languages and technologies</p>
    <img alt="CPlusPlus" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -19,11 +26,9 @@
    <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
    <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>  
    <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
-   
+   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>  
 </div>
-
-<br>   
+-->
 
 <!--
 MOSTRAR EMPRESAS EM QUE CONTRIBUI
@@ -36,14 +41,14 @@ Projetos em destaque: [Rocket](https://www.spacex.com/), [Marte](<https://pt.wik
 <br/>
 -->
    
-<p>Contact-me :)⤵️</p>
+## Contact-me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand.png" alt="Call Me Hand" width="25" height="25" />
 
-<div>
-    <a href="https://www.linkedin.com/in/lucas-santos387/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="mailto:lucas.ifsp387@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <a href="https://wa.me/5512997422947?text=Oii%20Lucas%2C%20vi%20seu%20perfil%20no%20GitHub"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="https://www.instagram.com/lusca_br2"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-</div>
+[![LINKEDIN](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/lucas-santos387/)
+[![INSTAGRAM](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/lusca_br2)
+[![GMAIL](https://skillicons.dev/icons?i=gmail)](mailto:lucas.ifsp387@gmail.com) 
+<a href="https://wa.me/5512997422947?text=Oii%20Lucas%2C%20vi%20seu%20perfil%20no%20GitHub">
+   <img src="https://www.svgrepo.com/show/349563/whatsapp.svg" width="50" height="50">
+</a>
 
 <br>
 
