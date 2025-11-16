@@ -13,7 +13,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,cs,php,html,css,js,py" />
 
 <p>Tools</p>
-<img src="https://skillicons.dev/icons?i=linux,windows,mysql,bootstrap,git,github,ps,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=linux,windows,mysql,bootstrap,git,github,docker,vscode,visualstudio" />
 
 <!--
 <div>
