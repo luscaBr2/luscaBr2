@@ -10,7 +10,7 @@
 ## Skills <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25">
 
 <p>Languages</p>
-<img src="https://skillicons.dev/icons?i=cpp,cs,php,html,css,js" />
+<img src="https://skillicons.dev/icons?i=cpp,cs,php,html,css,js,py" />
 
 <p>Tools</p>
 <img src="https://skillicons.dev/icons?i=linux,windows,mysql,bootstrap,git,github,ps,vscode,visualstudio" />
